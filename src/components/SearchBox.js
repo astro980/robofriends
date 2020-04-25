@@ -13,5 +13,4 @@ const SearchBox = ({ searchfield, searchChange }) => {
     );
 }
 
-
 export default SearchBox;
